@@ -1,0 +1,6 @@
+---
+applications:
+- name: BNHPBLMXTutorial
+  memory: 512M
+  host: BNHPBLMXTutorial-01-01
+  domain: mybluemix.net
