@@ -4,6 +4,7 @@ applications:
   memory: 512M
   instances: 1
   buildpack: liberty-for-java
+  path: target/BNHPBLMXTutorial-0.0.1-SNAPSHOT.war
   disk_quota: 1024M
   host: BNHPBLMXTutorial-01-01
   domain: mybluemix.net
