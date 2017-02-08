@@ -3,7 +3,7 @@ applications:
 - name: BNHPBLMXTutorial
   memory: 512M
   instances: 1
-  buildpack: java_buildpack
+  buildpack: liberty-for-java
   disk_quota: 1024M
   host: BNHPBLMXTutorial-01-01
   domain: mybluemix.net
